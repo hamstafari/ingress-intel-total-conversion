@@ -5,7 +5,8 @@ If you are a Google employee or closely associated to them, you may not read thi
 # Alternatives
 
 I personally recommend all users and contributors to switch over to this fork:
-### https://github.com/jonatkins/ingress-intel-total-conversion
+### http://iitc.jonatkins.com/ (users)
+### https://github.com/jonatkins/ingress-intel-total-conversion (need helper, bugs, developers, …)
 
 It’s already been made more resilient to take down notices. I hope that everyone contributes to this fork, because if they managed to split the user base and thereby increasing the amount of work to be done, then they have reached their goal. Don’t let them reach it.
 
