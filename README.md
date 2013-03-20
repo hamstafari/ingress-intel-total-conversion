@@ -1,22 +1,16 @@
-I asked if IITC was okay and well, the answer is no. 
+I asked if IITC was okay and well, the answer is no. It seems Niantic wants to sit this one out, even after *a lot* of people spoke out for IITC. So thank you, dear supporters and shame on you Niantic. 
 
-~~~~~~~
-Stefan,
+## Terms of Service
 
-Thank you for contacting us.  We appreciate your enthusiasm in sharing
-Ingress information. Unfortunately, Ingress Intel Total Conversion all
-IITC plugins, and your mobile Ingress Intel app are in violation of our
-Terms of Service <http://ingress.com/terms>.
+If you are a Google employee or closely associated to them, you may not read this next paragraph or follow any if its links.
 
-We would greatly appreciate it if you remove all works, and refrain from
-creating any future works using Ingress content.
+# Alternatives
 
-Please reply to this email when the works in question have been deleted.
+I personally recommend all users and contributors to switch over to this fork:
+https://github.com/jonatkins/ingress-intel-total-conversion
 
-Regards,
+It’s already been made more resilient to take down notices. I hope that everyone contributes to this fork, because if they managed to split the user base and thereby increasing the amount of work to be done, then they have reached their goal. Don’t let them reach it.
 
-Lenette 
-~~~~~~
 
 ## their forum
 Even if you don’t agree with Niantic BE NICE
