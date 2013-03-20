@@ -12,7 +12,7 @@ It’s already been made more resilient to take down notices. I hope that everyo
 
 #### trolling Niantic
 
-Brandon Badger writes “*Please help me by telling me in the comments of this post about a cool example of an agent doing something extraordinary, cunning, and/or brilliant in order to earn fame, glory, or Mind Units for their faction. Thanks!*”. Being very selfish, I posted about IITC. +1 my post if you want (search for IITC, first result).
+Brandon Badger writes “ *Please help me by telling me in the comments of this post about a cool example of an agent doing something extraordinary, cunning, and/or brilliant in order to earn fame, glory, or Mind Units for their faction. Thanks!* ”. Being very selfish, I posted about IITC. +1 my post if you want (search for IITC, first result).
 
 
 #### what happened?
