@@ -10,6 +10,11 @@ I personally recommend all users and contributors to switch over to this fork:
 
 It’s already been made more resilient to take down notices. I hope that everyone contributes to this fork, because if they managed to split the user base and thereby increasing the amount of work to be done, then they have reached their goal. Don’t let them reach it.
 
+#### trolling Niantic
+
+Brandon Badger writes “*Please help me by telling me in the comments of this post about a cool example of an agent doing something extraordinary, cunning, and/or brilliant in order to earn fame, glory, or Mind Units for their faction. Thanks!*”. Being very selfish, I posted about IITC. +1 my post if you want (search for IITC, first result).
+
+
 #### what happened?
 I asked if IITC was okay and well, the answer is no. It seems Niantic wants to sit this one out, even after *a lot* of people spoke out for IITC. So thank you, dear supporters and shame on you Niantic. They also specifically asked me to refrain from creating Ingress content and while they probably can’t to anything legally, they can still ban my Google account and thus make using my phone *a lot* harder.
 
@@ -22,3 +27,4 @@ https://groups.google.com/forum/#!category-topic/ingress-discuss/give-feedback--
 ##### online petition
 Someone created a petition you can sign.
 http://www.ipetitions.com/petition/free-iitc/
+
