@@ -1,4 +1,4 @@
-## Terms of Service
+## Terms of Service  (tl;dr: you from Google? GO AWAY!)
 
 If you are a Google employee or closely associated to them, you may not read this next paragraph or follow any if its links.
 
